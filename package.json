@@ -1,0 +1,14 @@
+{
+    "name": "axios-learning",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "http-server -p 80"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
